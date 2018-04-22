@@ -4,6 +4,7 @@ public class Student {
     private String studentFirstName;
     private String studentLastName;
     private int studentAge;
+    private int studentId;
 
     public Student() {
     }
